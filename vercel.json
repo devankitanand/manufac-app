@@ -1,0 +1,5 @@
+{
+  "rewrites": [
+    { "source": "/cropData.json", "destination": "/public/cropData.json" }
+  ]
+}
