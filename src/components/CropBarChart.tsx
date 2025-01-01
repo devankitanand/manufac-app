@@ -94,7 +94,7 @@ const CropBarChart: React.FC = () => {
   }
 
   // Render the chart container
-  return <div ref={chartRef} style={{ width: '100%', height: '400px' }}></div>;
+  return <div ref={chartRef} style={{ width: '481px', height: '400px' }}></div>;
 };
 
 export default CropBarChart;
