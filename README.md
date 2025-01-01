@@ -21,7 +21,7 @@ To set up the project locally, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/manufac-app.git
+   git clone https://github.com/devankitanand/manufac-app.git
    ```
 
 2. Navigate to the project directory:
@@ -74,11 +74,10 @@ yarn serve
 
 ## Screenshots
 
-![yeardata3](https://github.com/user-attachments/assets/bb0790fc-82d7-44c6-9de2-7492aed7c49f)
-![yeardata2](https://github.com/user-attachments/assets/b9c413b3-4d36-49b1-8716-477ac5806930)
-![yeardat1](https://github.com/user-attachments/assets/034d377b-c1a7-41a4-81cd-5f6db413d689)
-![mainmanufac](https://github.com/user-attachments/assets/6aeba386-f744-4a14-8e33-e473e398b433)
-![cropdata](https://github.com/user-attachments/assets/b98b6343-eccd-4920-9f34-b6523a0a90c6)
+![D2](https://github.com/user-attachments/assets/1824f348-29e4-4bfa-84df-6953c6769f34)
+![D1](https://github.com/user-attachments/assets/96dd432e-46cd-4bd0-84f7-8235f9cae34a)
+![d3](https://github.com/user-attachments/assets/1a64d595-9980-41f0-9015-1bf3097e6adf)
+
 
 
 ---
@@ -95,6 +94,7 @@ manufac-app/
 │   ├── components/
 │   │   ├── Yeardata.tsx
 │   │   ├── CropAverages.tsx
+|   |   |── CropBarChart.tsx
 │   ├── App.tsx
 │   ├── main.tsx
 ├── .gitignore
@@ -109,6 +109,7 @@ manufac-app/
 ## Technologies Used
 
 - **React**: JavaScript library for building user interfaces.
+- **Apache-Echarts**: Apache ECharts is a free, powerful charting and visualization library
 - **Mantine**: Component library for building UI.
 - **Vite**: Next-generation frontend tooling for fast builds and development.
 - **TypeScript**: Typed superset of JavaScript.
